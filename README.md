@@ -7,6 +7,7 @@ This repo contains C++ programs that need to be run on practical classes (3rd se
 ### Intro
 
 - Each sheets have corresponding `SHEET-n ` folder. [Click me for note](#noted)
+- Each `SHEET-n` has a `pdf` of the lab sheet provided.
 - Each `SHEET-n` has a unique `README.md` files for more info.
 - The Questions given in sheet are named as `Q-n.cpp`.
 - The Sub-questions are named as `Q-n-X.cpp`.
